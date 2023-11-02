@@ -23,6 +23,10 @@ import {
     jobit,
     tripguide,
     threejs,
+    analyse,
+    gym,
+    sport,
+    massage,
   } from "../assets";
   
   export const navLinks = [
@@ -42,20 +46,20 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
-      icon: web,
+      title: "Analyse & bilan",
+      icon: analyse,
     },
     {
-      title: "React Native Developer",
-      icon: mobile,
+      title: "Rééducation & Réadaptation",
+      icon: gym,
     },
     {
-      title: "Backend Developer",
-      icon: backend,
+      title: "Renforcement musculaire",
+      icon: sport,
     },
     {
-      title: "Content Creator",
-      icon: creator,
+      title: "Soins & Récupération",
+      icon: massage,
     },
   ];
   
