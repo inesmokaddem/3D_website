@@ -7,6 +7,12 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
+import analyse from "./analyse.png"
+import gym from "./gym.png"
+import sport from "./sport.png"
+import massage from "./massage.png"
+
+
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -59,4 +65,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  analyse,
+  gym,
+  sport,
+  massage,
 };
