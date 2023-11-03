@@ -1,7 +1,6 @@
 import {
     carrent,
     jobit,
-    tripguide,
     analyse,
     gym,
     sport,
@@ -175,7 +174,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: jobit,
       source_code_link: "https://github.com/",
     },
   ];
