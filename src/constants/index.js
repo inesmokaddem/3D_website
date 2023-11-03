@@ -1,6 +1,7 @@
 import {
-    carrent,
-    jobit,
+    kine1,
+    kine2,
+    kine3,
     analyse,
     gym,
     sport,
@@ -115,23 +116,23 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Matthias KUPPER",
       description:
         "FLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: carrent,
+      image: kine3,
     },
     {
-      name: "Job IT",
+      name: "Dorian POISSON",
       description:
         "FLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: jobit,
+      image: kine2,
     },
     {
-      name: "Trip Guide",
+      name: "Thomas SPETEBROOT",
       description:
         "FLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      image: jobit,
+      image: kine1,
     },
   ];
   
-  export { services, experiences, testimonials, projects };
+  export { services, experiences, projects };

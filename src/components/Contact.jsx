@@ -29,7 +29,10 @@ const Contact = () => {
         className='xl:flex-1 xl:h-auto md:h-[550px] h-[350px]'
       >
       </motion.div>
-      {/* <span><a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-occupational-therapy-illustration_25645143.htm#query=physiotherapy%20background&position=45&from_view=search&track=ais">Image by pikisuperstar</a> on Freepik</span> */}
+      {/* <span><a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-occupational-therapy-illustration_25645143.htm#query=physiotherapy%20background&position=45&from_view=search&track=ais">Image by pikisuperstar</a> on Freepik</span> 
+      <span><a href="https://www.flaticon.com/fr/icones-gratuites/massage" title="massage icônes">Massage icônes créées par Freepik - Flaticon</a></span>
+      <span><a href="https://www.flaticon.com/fr/icones-gratuites/fitness-pour-toujours" title="fitness pour toujours icônes">Fitness pour toujours icônes créées par surang - Flaticon</a></span>
+      */}
     </div>
   );
 };
