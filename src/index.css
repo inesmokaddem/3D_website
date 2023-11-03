@@ -19,6 +19,9 @@
   display: block;
 }
 
+.bg-blue {
+  background-color: #4B7DB7;
+}
 .black-gradient {
   background: #000000; /* fallback for old browsers */
   background: -webkit-linear-gradient(
