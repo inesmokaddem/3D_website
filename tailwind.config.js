@@ -19,7 +19,12 @@ module.exports = {
         xs: "450px",
       },
       backgroundImage: {
-        "hero-pattern": "url('/src/assets/herobg.png')",
+        // "hero-pattern": "url('/src/assets/herobg.png')",
+        "hero-pattern": "url('/src/assets/peoplebg.jpg')",
+        // "hero-pattern": "url('/src/assets/paper_bg.jpg')",
+      },
+      backgroundOpacity: {
+        '25': '0.25',
       },
     },
   },
