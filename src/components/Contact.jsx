@@ -32,15 +32,18 @@ const Contact = () => {
 
       <motion.div
         variants={slideIn("right", "tween", 0.2, 1)}
-        // className='xl:flex-1 xl:h-auto md:h-[550px] h-[350px]'
+        className='flex-[0.75] bg-white p-2 rounded-2xl mb-[4rem] xl:flex-1 xl:h-auto md:h-[550px] h-[350px]'
       >
+        <div>
+          <img src="../../src/assets/team/kine2.jpg" alt="photo_rdv" className="w-50" />
+        </div>
       </motion.div>
-      <div className="border-top-light footer">
+      {/* <footer className="border-top-light footer">
         <p>Website made by I.Mokaddem</p>
         
         <p><a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-occupational-therapy-illustration_25645143.htm#query=physiotherapy%20background&position=45&from_view=search&track=ais">Image by pikisuperstar</a> on Freepik</p> 
         <p><a href="https://www.flaticon.com/fr/icones-gratuites" title="massage icônes">Icônes by Freepik and Surang - Flaticon</a></p>
-      </div>
+      </footer> */}
     </div>
   );
 };
