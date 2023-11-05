@@ -12,8 +12,8 @@ const Hero = () => {
         </div>
 
         <div>
-          <h1 className={`${styles.heroHeadText} blue-shadow`}>Kinésithérapie et Ostéopathie à <span className='text-[#4B7DB7]'>Labenne</span></h1>
-          <p className={`${styles.heroSubText} mt-2 blue-shadow`}>Massages et Rééducation, de la prévention jusqu'à la récupération <br className='sm:block hidden'/>totale des pathologies dans votre cabinet situé à Labenne.</p>
+          <h1 className={`${styles.heroHeadText} blue-shadow`}>Kinésithérapie et Ostéopathie à <span className='text-[#4B7DB7] white-shadow '>Labenne</span></h1>
+          <p className={`${styles.heroSubText} mt-2 white-shadow`}>Massages et Rééducation, de la prévention jusqu'à la récupération <br className='sm:block hidden'/>totale des pathologies dans votre cabinet situé à Labenne.</p>
         </div>
 
       </div>

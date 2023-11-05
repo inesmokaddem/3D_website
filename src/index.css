@@ -26,7 +26,10 @@
   color: #4B7DB7;
 }
 .blue-shadow {
-  text-shadow: 2px 2px rgb(59 130 246 / 0.5);
+  text-shadow: 2px 2px #4B7DB7;
+}
+.white-shadow {
+  text-shadow: 2px 2px rgb(199 202 207 / 60%);;
 }
 .black-gradient {
   background: #000000; /* fallback for old browsers */
