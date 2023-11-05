@@ -24,7 +24,7 @@ const ProjectCard = ({
         }}
         className='bg-white p-5 rounded-2xl sm:w-[360px] w-full'
       >
-        <div className='relative w-full h-[230px]'>
+        <div className='relative w-full h-[400px]'>
           <img
             src={image}
             alt='project_image'
