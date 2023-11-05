@@ -16,7 +16,7 @@ const Contact = () => {
         className='flex-[0.75] bg-white p-8 rounded-2xl'
       >
         <p className={styles.sectionSubText}>Pour prendre rendez-vous</p>
-        <h3 className={styles.sectionHeadText}><a href="https://www.doctolib.fr/masseur-kinesitherapeute/labenne/matthias-kupper" target="_blank">Doctolib.</a></h3>
+        <h3 className={styles.sectionContactText}><a href="https://www.doctolib.fr/masseur-kinesitherapeute/labenne/matthias-kupper" target="_blank">Doctolib.</a></h3>
         <p className={styles.sectionSubText}>Tél: 05 59 59 18 71</p>
         <p className={styles.sectionSubText}>Adresse : Pl. du Marensin, 40530 Labenne</p>
         
