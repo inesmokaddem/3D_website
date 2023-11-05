@@ -12,8 +12,8 @@ const Hero = () => {
         </div>
 
         <div>
-          <h1 className={`${styles.heroHeadText}`}>Kinésithérapie et Ostéopathie à <span className='text-[#0076E2]'>Labenne</span></h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>Massages et Rééducation, de la prévention jusqu'à la récupération <br className='sm:block hidden'/>totale des pathologies dans votre cabinet situé à Labenne.</p>
+          <h1 className={`${styles.heroHeadText} blue-shadow`}>Kinésithérapie et Ostéopathie à <span className='text-[#4B7DB7]'>Labenne</span></h1>
+          <p className={`${styles.heroSubText} mt-2 blue-shadow`}>Massages et Rééducation, de la prévention jusqu'à la récupération <br className='sm:block hidden'/>totale des pathologies dans votre cabinet situé à Labenne.</p>
         </div>
 
       </div>
@@ -22,7 +22,7 @@ const Hero = () => {
 
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
         <a href='#à_propos'>
-          <div className='w-[35px] h-[64px] rounded-3xl border-4 border-white flex justify-center items-start p-2'>
+          <div className='w-[35px] h-[64px] rounded-3xl border-4 border-blue flex justify-center items-start p-2'>
             <motion.div
               animate={{
                 y: [0, 24, 0],
@@ -32,7 +32,7 @@ const Hero = () => {
                 repeat: Infinity,
                 repeatType: "loop",
               }}
-              className='w-3 h-3 rounded-full bg-white mb-1'
+              className='w-3 h-3 rounded-full bg-blue mb-1'
             />
           </div>
         </a>

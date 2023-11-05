@@ -23,7 +23,7 @@ const Navbar = () => {
             window.scrollTo(0, 0)
           }}
         >
-          <p className='text-white text-[18px] font-bold cursor-pointer'>M.Kupper & D.Poisson & T.Spetebroot</p>
+          <p className='text-white text-[18px] font-bold cursor-pointer'>Kiné Ostéo Labenne</p>
         </Link>
         <ul className='list-none hidden sm:flex flex-row gap-10'>
           {navLinks.map((link) => (
@@ -45,13 +45,13 @@ const Navbar = () => {
           className='w-[28px] h-[28px] object-contain cursor-pointer'
           onClick={() => setToggle(!toggle)}
           />
-        <div className={`${!toggle ? 'hidden':'flex'} p-6 black-gradient absolute top-20 rigth-0 mx-4 my-2 min-w[140px] z-10 rounded-x1`}>
-          <ul className='list-none flex justify-end items-start flex-col gap-4'>
+        <div className={`${!toggle ? 'hidden':'flex'} p-6 bg-white absolute top-[3rem] rigth-0 mx-0 min-w[160px] z-10 rounded-x1`}>
+          <ul className='list-none flex justify-end items-start flex-col gap-6'>
             {navLinks.map((link) => (
               <li
                 key={link.id}
                 className={`${
-                  active === link.title ? "text-white" : "text-secondary"
+                  active === link.title ? "text-blue" : "text-secondary"
                 } font-poppins font-medium cursor-pointer text-[16px]`}
                 onClick={() => {
                   setToggle(!toggle);

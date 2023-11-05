@@ -8,7 +8,7 @@ import sport from "./sport.png"
 import massage from "./massage.png"
 
 
-import icon_expertise from "./icon_expertise.png"
+import icon_expertise from "./massage.png"
 
 import kine1 from "./team/kine1.jpg";
 import kine2 from "./team/kine2.jpg";

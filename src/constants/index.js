@@ -48,7 +48,7 @@ import {
       title: "Kinésithérapie",
       company_name: "Matthias Kupper & Dorian Poisson",
       icon: icon_expertise,
-      iconBg: "#383E56",
+      iconBg: "#ffff",
       points: [
         "La kinésithérapie est une discipline paramédicale qui repose sur diverses techniques : massages, mouvements de gymnastique avec ou sans instrument, physiothérapie, etc.",
         "Ce professionnel de santé travaille en étroite collaboration avec l’équipe médicale. ",
@@ -59,27 +59,28 @@ import {
       title: "Ostéopathie",
       company_name: "Matthias Kupper",
       icon: icon_expertise,
-      iconBg: "#E6DEDD",
+      iconBg: "#ffff",
       points: [
         "Les ostéopathes utilisent leur connaissance des relations entre la structure et la fonction pour optimiser les capacités du corps à s’auto-réguler et à s’auto-guérir.",
         "Cette approche holistique de la prise en charge du patient est fondée sur le concept que l’être humain constitue une unité fonctionnelle dynamique, dans laquelle toutes les parties sont reliées entre elles.",
       ],
     },
     {
-      title: "Niromathé",
+      title: "Moneyron",
       company_name: "Thomas Spetebroot",
       icon: icon_expertise,
-      iconBg: "#383E56",
+      iconBg: "#ffff",
       points: [
-        "Créée en 1997, la méthode Niromathé® fut une véritable révélation. La méthode trouve son originalité en ce sens qu'elle associe les points d'acupuncture et une traction cutanée. Tout le travail se passe au niveau de la peau: une lésion entraine une déprogrammation des points cutanés et sous cutanés pouvant durer des années, et générant des douleurs. La reprogrammation de ces points par un toucher vibratoire amène à une disparition de la lésion et donc de la douleur.",
-        "Les domaines d’application de la méthode Niromathé sont très variés : elle s'adresse à tous les âges et à toutes les lésions ostéopathiques sans exception.",
+        "La méthode Jean Moneyron se singularise par son apparente simplicité, sa rapidité et sa profonde efficacité.", 
+        "C'est une méthode manuelle de réharmonisation réflexe des articulations rachidiennes et des membres entraînant une répercussion à distance sur tout l'équilibre du corps.",
+        "L'action thérapeutique s'applique sur des points cibles réflexogènes normalisateurs de l'étage intéressé.",
       ],
     },
     {
       title: "Méthode McKenzie",
       company_name: "Dorian Poisson",
       icon: icon_expertise,
-      iconBg: "#E6DEDD",
+      iconBg: "#ffff",
       points: [
         "Cette méthode de traitement, centrée sur la participation active du patient, a convaincu de nombreux praticiens dans le monde entier",
         "Elle peut être utilisée pour l’évaluation, le traitement, l’éducation et l’accession à l’autonomie des patients souffrant de douleurs au niveau du dos, du cou et des membres.",
